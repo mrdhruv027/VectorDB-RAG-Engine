@@ -1,0 +1,122 @@
+[
+  {
+    "id": 20,
+    "metadata": "Swimming: butterfly freestyle backstroke Olympic competition",
+    "category": "sports",
+    "embedding": [0.0600,0.0800,0.0700,0.0900,0.0800,0.0600,0.0900,0.0700,0.1000,0.0800,0.0600,0.0700,0.8500,0.8200,0.8600,0.8000]
+  },
+  {
+    "id": 19,
+    "metadata": "Chess: openings endgames tactics strategic board game",
+    "category": "sports",
+    "embedding": [0.2500,0.2000,0.2200,0.1800,0.2200,0.1800,0.2000,0.1500,0.0600,0.0800,0.0700,0.0900,0.8000,0.8400,0.7800,0.9000]
+  },
+  {
+    "id": 18,
+    "metadata": "Tennis: racket volleys groundstrokes and Wimbledon serves",
+    "category": "sports",
+    "embedding": [0.0800,0.0600,0.0900,0.0700,0.0700,0.0800,0.0600,0.0900,0.0900,0.0600,0.0700,0.0800,0.8300,0.8000,0.8800,0.8200]
+  },
+  {
+    "id": 17,
+    "metadata": "Football: tackles touchdowns field goals and strategy",
+    "category": "sports",
+    "embedding": [0.0700,0.0900,0.0600,0.0800,0.0900,0.0700,0.1000,0.0800,0.0700,0.0900,0.0800,0.0700,0.8700,0.8900,0.8200,0.7600]
+  },
+  {
+    "id": 16,
+    "metadata": "Basketball: fast-paced shooting dribbling slam dunks",
+    "category": "sports",
+    "embedding": [0.0900,0.0700,0.0800,0.1000,0.0800,0.0900,0.0700,0.0600,0.0800,0.0700,0.0900,0.0600,0.9100,0.8500,0.7800,0.7200]
+  },
+  {
+    "id": 15,
+    "metadata": "Croissant: laminated pastry with buttery flaky layers",
+    "category": "food",
+    "embedding": [0.0600,0.0700,0.1000,0.0900,0.1000,0.0600,0.0700,0.1000,0.8500,0.8000,0.7600,0.8200,0.0900,0.0700,0.1000,0.0600]
+  },
+  {
+    "id": 14,
+    "metadata": "Tacos: corn tortillas with carnitas salsa and cilantro",
+    "category": "food",
+    "embedding": [0.0700,0.0900,0.0800,0.0600,0.0600,0.0700,0.0900,0.0800,0.7800,0.8200,0.8600,0.9000,0.0600,0.0800,0.0700,0.0900]
+  },
+  {
+    "id": 1,
+    "metadata": "Linked List: nodes connected by pointers",
+    "category": "cs",
+    "embedding": [0.9000,0.8500,0.7200,0.6800,0.1200,0.0800,0.1500,0.1000,0.0500,0.0800,0.0600,0.0900,0.0700,0.1100,0.0800,0.0600]
+  },
+  {
+    "id": 2,
+    "metadata": "Binary Search Tree: O(log n) search and insert",
+    "category": "cs",
+    "embedding": [0.8800,0.8200,0.7800,0.7400,0.1500,0.1000,0.0800,0.1200,0.0600,0.0700,0.0800,0.0500,0.0900,0.0600,0.0700,0.1000]
+  },
+  {
+    "id": 3,
+    "metadata": "Dynamic Programming: memoization overlapping subproblems",
+    "category": "cs",
+    "embedding": [0.8200,0.7600,0.8800,0.8000,0.2000,0.1800,0.1200,0.0900,0.0700,0.0600,0.0800,0.0700,0.0800,0.0900,0.0600,0.0700]
+  },
+  {
+    "id": 4,
+    "metadata": "Graph BFS and DFS: breadth and depth first traversal",
+    "category": "cs",
+    "embedding": [0.8500,0.8000,0.7500,0.8200,0.1800,0.1400,0.1000,0.0800,0.0600,0.0900,0.0700,0.0600,0.1000,0.0800,0.0900,0.0700]
+  },
+  {
+    "id": 5,
+    "metadata": "Hash Table: O(1) lookup with collision chaining",
+    "category": "cs",
+    "embedding": [0.8700,0.7800,0.7000,0.7600,0.1300,0.1100,0.0900,0.1400,0.0800,0.0700,0.0600,0.0800,0.0700,0.1000,0.0800,0.0900]
+  },
+  {
+    "id": 6,
+    "metadata": "Calculus: derivatives integrals and limits",
+    "category": "math",
+    "embedding": [0.1200,0.1500,0.1800,0.1000,0.9100,0.8600,0.7800,0.7200,0.0800,0.0600,0.0700,0.0900,0.0700,0.0800,0.0600,0.1000]
+  },
+  {
+    "id": 7,
+    "metadata": "Linear Algebra: matrices eigenvalues eigenvectors",
+    "category": "math",
+    "embedding": [0.2000,0.1800,0.1500,0.1200,0.8800,0.9000,0.8200,0.7600,0.0900,0.0700,0.0800,0.0600,0.1000,0.0700,0.0800,0.0900]
+  },
+  {
+    "id": 8,
+    "metadata": "Probability: distributions random variables Bayes theorem",
+    "category": "math",
+    "embedding": [0.1500,0.1200,0.2000,0.1800,0.8400,0.8000,0.8800,0.8200,0.0700,0.0800,0.0600,0.1000,0.0900,0.0600,0.0900,0.0800]
+  },
+  {
+    "id": 9,
+    "metadata": "Number Theory: primes modular arithmetic RSA cryptography",
+    "category": "math",
+    "embedding": [0.2200,0.1600,0.1400,0.2000,0.8000,0.8500,0.7600,0.9000,0.0800,0.0900,0.0700,0.0600,0.0800,0.1000,0.0700,0.0600]
+  },
+  {
+    "id": 10,
+    "metadata": "Combinatorics: permutations combinations generating functions",
+    "category": "math",
+    "embedding": [0.1800,0.2000,0.1600,0.1400,0.8600,0.7800,0.8400,0.8000,0.0600,0.0700,0.0900,0.0800,0.0600,0.0900,0.1000,0.0700]
+  },
+  {
+    "id": 11,
+    "metadata": "Neapolitan Pizza: wood-fired dough San Marzano tomatoes",
+    "category": "food",
+    "embedding": [0.0800,0.0600,0.0900,0.0700,0.0700,0.0800,0.0600,0.0900,0.9000,0.8600,0.7800,0.7200,0.0800,0.0600,0.0900,0.0700]
+  },
+  {
+    "id": 12,
+    "metadata": "Sushi: vinegared rice raw fish and nori rolls",
+    "category": "food",
+    "embedding": [0.0600,0.0800,0.0700,0.0900,0.0900,0.0600,0.0800,0.0700,0.8600,0.9000,0.8200,0.7600,0.0700,0.0900,0.0600,0.0800]
+  },
+  {
+    "id": 13,
+    "metadata": "Ramen: noodle soup with chashu pork and soft-boiled eggs",
+    "category": "food",
+    "embedding": [0.0900,0.0700,0.0600,0.0800,0.0800,0.0900,0.0700,0.0600,0.8200,0.7800,0.9000,0.8400,0.0900,0.0700,0.0800,0.0600]
+  }
+]

@@ -1,0 +1,33 @@
+# Compiled binaries
+*.exe
+*.o
+*.out
+a.out
+db
+run_tests
+
+# Environment variables & secrets
+.env
+.env.*
+!.env.example
+
+# Toolchains and archives
+w64devkit/
+*.7z
+*.tar.gz
+*.zip
+
+# Build directories
+build/
+bin/
+
+# IDE & Editor files
+.vscode/
+.idea/
+*.user
+*.suo
+
+# Operating System files
+.DS_Store
+Thumbs.db
+desktop.ini

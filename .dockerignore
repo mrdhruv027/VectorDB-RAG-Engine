@@ -1,0 +1,12 @@
+.git
+.gitignore
+*.exe
+*.o
+*.out
+db
+run_tests
+.env
+.env.*
+!.env.example
+w64devkit/
+*.md
